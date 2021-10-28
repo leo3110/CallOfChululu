@@ -1,4 +1,4 @@
-<div class="full-height px-2 col-1 bg-danger">
+<div class="col full-height px-2 col-1 bg-danger">
   <h5 class="mx-auto text-center font-weight-bold">
     <?php if (isset($_SESSION['logado'])) {
       echo '<a href="?op=logout"><div class="py-3 text-dark">Logout</div></a>
