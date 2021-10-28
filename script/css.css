@@ -1,0 +1,26 @@
+html, body, .full-height{
+  height: 100%;
+}
+div.outline{
+	font-family: sans-serif;
+}
+span{
+	font-size: 1px;
+}
+#Me{
+  font-family: serif;
+}
+.nota{
+  color: #0002;
+}
+.MyBorder{
+  border-style: solid;
+  border-radius: 16px;
+  border-color: #dc3545;
+}
+#canvas{
+  height: 59em;
+  width: 59em;
+  position: relative;
+  margin: auto;
+}
