@@ -15,12 +15,12 @@ span{
 }
 .MyBorder{
   border-style: solid;
-  border-radius: 16px;
   border-color: #dc3545;
 }
 #canvas{
-  height: 59em;
-  width: 59em;
+  height: 58em;
+  width: 58em;
   position: relative;
   margin: auto;
+  margin-top: auto;
 }

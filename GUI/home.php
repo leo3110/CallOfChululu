@@ -1,7 +1,13 @@
 <canvas id="canvas" class="MyBorder"></canvas>
-<script type="text/javascript">
-var canvas = document.getElementById("canvas");
-var ctx = canvas.getContext("2d");
-ctx.fillStyle = "#FF0000";
-ctx.fillHex(0, 0, 150, 75);
+<script>
+  var canvas = document.getElementById("canvas");
+  var ctx = canvas.getContext("2d");
+  ctx.moveTo(0,0);
+  ctx.lineTo(200,200);
+  ctx.stroke();
+
+  // 982 x 982
+  // /25 = 39.28
+
+
 </script>
